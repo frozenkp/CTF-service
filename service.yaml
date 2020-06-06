@@ -1,0 +1,4 @@
+command: bash
+port: 8000
+timeout: 10000
+user: frozenkp
